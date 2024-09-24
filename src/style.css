@@ -4,6 +4,5 @@ html,body,#root{
 }
 
 #root{
-   position: fixed;
    background: #000;
 }
